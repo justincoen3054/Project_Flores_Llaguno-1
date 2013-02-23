@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1361444123 source:c:\codeblocks projects\project_flores_llaguno\project.cpp
+	"Project.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<math.h>
+
+1361270535 c:\codeblocks projects\project_flores_llaguno\project.h
+
+1361274979 source:c:\codeblocks projects\project_flores_llaguno\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Project.h"
+
+1361580647 source:c:\users\user\desktop\problem 11-20\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Project.h"
+
+1361603232 c:\users\user\desktop\problem 11-20\project.h
+
+1361603214 source:c:\users\user\desktop\problem 11-20\project.cpp
+	"Project.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	<vector>
+
